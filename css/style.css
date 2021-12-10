@@ -1,0 +1,22 @@
+.box{
+    width: calc(100% / 10 - 5px);
+    height: 100px;
+    line-height: 100px;
+    color: white;
+}
+
+.box-green{
+    background-color: green;
+}
+
+.box-blue{
+    background-color: cadetblue;
+}
+
+.box-yellow{
+    background-color: goldenrod;
+}
+
+.box-aqua{
+    background-color: mediumaquamarine;
+}
