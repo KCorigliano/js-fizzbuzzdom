@@ -1,5 +1,5 @@
 .box{
-    width: calc(100% / 10 - 5px);
+    width: calc(100% / 10 - 7px);
     height: 100px;
     line-height: 100px;
     color: white;
